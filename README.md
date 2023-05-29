@@ -17,4 +17,4 @@
 - СУМ-11 (Uk-Uk)
 
 Наявні формати словників на поточний час:
-ABBYY Lingvo DSL
+- ABBYY Lingvo DSL
