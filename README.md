@@ -17,5 +17,5 @@
 - СУМ-11 (Uk-Uk)
 
 Наявні формати словників на поточний час:
-- [ABBYY Lingvo DSL] (https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/ABBYY.Lingvo.DSL.Ukr.zip)
-- [StarDict] (https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/Stardict.Ukr.zip)
+- [ABBYY Lingvo DSL](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/ABBYY.Lingvo.DSL.Ukr.zip)
+- [StarDict](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/Stardict.Ukr.zip)
