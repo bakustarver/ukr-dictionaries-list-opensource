@@ -1,4 +1,4 @@
-# Ukrainian offline open source dictionaries 
+Українська | [Русский](README_RU.md) | [English](README_EN.md) 
 # Українські офлайн словники у відкритих форматах
 
 Список включає українські словники у відкритих форматах
