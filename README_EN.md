@@ -1,4 +1,4 @@
-Українська(README.md) | [Русский](README_RU.md) | English
+[Українська](README.md) | [Русский](README_RU.md) | English
 
 # Ukrainian offline dictionaries in open formats
 
