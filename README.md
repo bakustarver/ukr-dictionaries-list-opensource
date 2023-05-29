@@ -1,2 +1,1 @@
-# ukrdictionarieslistopensource
-Ukrainian offline open source dictionaries 
+# Ukrainian offline open source dictionaries 
