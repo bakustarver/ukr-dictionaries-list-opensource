@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 | Формати          | Розширення | Посилання на завантаження                           |
 -------------------|:----------:|:---------------------------------------------------:|
-| Aard2Slob        |  .slob     | [Aard2Slob-ru-ukr_slovnyk_dilovoyi_liudyny.zip](https://youtube.com/watch?v=_OfVL8ETIZI](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Aard2Slob-ru-ukr_slovnyk_dilovoyi_liudyny.zip) |
+| Aard2Slob        |  .slob     | [Aard2Slob-ru-ukr_slovnyk_dilovoyi_liudyny.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Aard2Slob-ru-ukr_slovnyk_dilovoyi_liudyny.zip) |
 | ABBYY Lingvo DSL |  .dsl      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
 | AppleDict        |  .apple    | [AppleDict-ru-ukr_slovnyk_dilovoyi_liudyny.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/AppleDict-ru-ukr_slovnyk_dilovoyi_liudyny.zip) |
 | CrawlerDir       |  .crawler  | [CrawlerDir-ru-ukr_slovnyk_dilovoyi_liudyny.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/CrawlerDir-ru-ukr_slovnyk_dilovoyi_liudyny.zip) |
