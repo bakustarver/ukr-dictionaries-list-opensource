@@ -2,27 +2,27 @@
 ---------------------------------------------------------------------------------------
 | Формати          | Розширення | Посилання на завантаження                           |
 -------------------|:----------:|:---------------------------------------------------:|
-| Aard2Slob        |  .slob     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| ABBYY Lingvo DSL |  .dsl      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| AppleDict        |  .apple    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| CrawlerDir       |  .crawler  | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Csv              |  .csv      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dicformids       |  .mids     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dictfile         |  .df       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrg          |  .index    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrgSource    |  .dtxt     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DiktJson         |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Edlin            |  .edlin    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Epub2            |  .epub     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| GettextPo        |  .po       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| HtmlDir          |  .hdir     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Info             |  .info     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Json             |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Kobo             |  .kobo     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| LingoesLDF       |  .ldf      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Sql              |  .sql      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Stardict         |  .ifo      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| StardictTextual  |  .xml      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Tabfile          |  .txt      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Yomichan         |  .zip      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
+| Aard2Slob        |  .slob     | [Aard2Slob-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Aard2Slob-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| ABBYY Lingvo DSL |  .dsl      | [ABBYY Lingvo DSL-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/ABBYY-Lingvo-DSL-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| AppleDict        |  .apple    | [AppleDict-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/AppleDict-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| CrawlerDir       |  .crawler  | [CrawlerDir-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/CrawlerDir-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Csv              |  .csv      | [Csv-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Csv-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Dicformids       |  .mids     | [Dicformids-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dicformids-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Dictfile         |  .df       | [Dictfile-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dictfile-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| DictOrg          |  .index    | [DictOrg-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrg-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| DictOrgSource    |  .dtxt     | [DictOrgSource-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrgSource-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| DiktJson         |  .json     | [DiktJson-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DiktJson-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Edlin            |  .edlin    | [Edlin-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Edlin-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Epub2            |  .epub     | [Epub2-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Epub2-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| GettextPo        |  .po       | [GettextPo-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/GettextPo-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| HtmlDir          |  .hdir     | [HtmlDir-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/HtmlDir-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Info             |  .info     | [Info-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Info-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Json             |  .json     | [Json-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Json-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Kobo             |  .kobo     | [Kobo-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Kobo-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| LingoesLDF       |  .ldf      | [LingoesLDF-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/LingoesLDF-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Sql              |  .sql      | [Sql-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Sql-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Stardict         |  .ifo      | [Stardict-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Stardict-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| StardictTextual  |  .xml      | [StardictTextual-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/StardictTextual-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Tabfile          |  .txt      | [Tabfile-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Tabfile-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
+| Yomichan         |  .zip      | [Yomichan-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Yomichan-ukr-ru_slovar_grinchenka_uaru_dlia_lingvo.zip) |
 ---------------------------------------------------------------------------------------

@@ -2,27 +2,27 @@
 ---------------------------------------------------------------------------------------
 | Формати          | Розширення | Посилання на завантаження                           |
 -------------------|:----------:|:---------------------------------------------------:|
-| Aard2Slob        |  .slob     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| ABBYY Lingvo DSL |  .dsl      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| AppleDict        |  .apple    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| CrawlerDir       |  .crawler  | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Csv              |  .csv      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dicformids       |  .mids     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dictfile         |  .df       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrg          |  .index    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrgSource    |  .dtxt     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DiktJson         |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Edlin            |  .edlin    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Epub2            |  .epub     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| GettextPo        |  .po       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| HtmlDir          |  .hdir     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Info             |  .info     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Json             |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Kobo             |  .kobo     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| LingoesLDF       |  .ldf      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Sql              |  .sql      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Stardict         |  .ifo      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| StardictTextual  |  .xml      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Tabfile          |  .txt      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Yomichan         |  .zip      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
+| Aard2Slob        |  .slob     | [Aard2Slob-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Aard2Slob-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| ABBYY Lingvo DSL |  .dsl      | [ABBYY Lingvo DSL-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/ABBYY-Lingvo-DSL-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| AppleDict        |  .apple    | [AppleDict-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/AppleDict-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| CrawlerDir       |  .crawler  | [CrawlerDir-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/CrawlerDir-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Csv              |  .csv      | [Csv-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Csv-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Dicformids       |  .mids     | [Dicformids-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dicformids-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Dictfile         |  .df       | [Dictfile-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dictfile-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| DictOrg          |  .index    | [DictOrg-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrg-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| DictOrgSource    |  .dtxt     | [DictOrgSource-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrgSource-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| DiktJson         |  .json     | [DiktJson-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DiktJson-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Edlin            |  .edlin    | [Edlin-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Edlin-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Epub2            |  .epub     | [Epub2-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Epub2-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| GettextPo        |  .po       | [GettextPo-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/GettextPo-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| HtmlDir          |  .hdir     | [HtmlDir-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/HtmlDir-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Info             |  .info     | [Info-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Info-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Json             |  .json     | [Json-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Json-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Kobo             |  .kobo     | [Kobo-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Kobo-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| LingoesLDF       |  .ldf      | [LingoesLDF-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/LingoesLDF-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Sql              |  .sql      | [Sql-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Sql-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Stardict         |  .ifo      | [Stardict-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Stardict-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| StardictTextual  |  .xml      | [StardictTextual-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/StardictTextual-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Tabfile          |  .txt      | [Tabfile-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Tabfile-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
+| Yomichan         |  .zip      | [Yomichan-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Yomichan-en-ua_angloukrayinskii_slovnik_miballa_engukr.zip) |
 ---------------------------------------------------------------------------------------

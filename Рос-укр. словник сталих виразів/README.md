@@ -2,27 +2,27 @@
 ---------------------------------------------------------------------------------------
 | Формати          | Розширення | Посилання на завантаження                           |
 -------------------|:----------:|:---------------------------------------------------:|
-| Aard2Slob        |  .slob     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| ABBYY Lingvo DSL |  .dsl      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| AppleDict        |  .apple    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| CrawlerDir       |  .crawler  | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Csv              |  .csv      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dicformids       |  .mids     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Dictfile         |  .df       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrg          |  .index    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DictOrgSource    |  .dtxt     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| DiktJson         |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Edlin            |  .edlin    | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Epub2            |  .epub     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| GettextPo        |  .po       | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| HtmlDir          |  .hdir     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Info             |  .info     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Json             |  .json     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Kobo             |  .kobo     | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| LingoesLDF       |  .ldf      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Sql              |  .sql      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Stardict         |  .ifo      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| StardictTextual  |  .xml      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Tabfile          |  .txt      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
-| Yomichan         |  .zip      | [test.zip](https://youtube.com/watch?v=_OfVL8ETIZI) |
+| Aard2Slob        |  .slob     | [Aard2Slob-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Aard2Slob-ru_uk_stali_vyrazy_k_1.zip) |
+| ABBYY Lingvo DSL |  .dsl      | [ABBYY Lingvo DSL-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/ABBYY-Lingvo-DSL-ru_uk_stali_vyrazy_k_1.zip) |
+| AppleDict        |  .apple    | [AppleDict-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/AppleDict-ru_uk_stali_vyrazy_k_1.zip) |
+| CrawlerDir       |  .crawler  | [CrawlerDir-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/CrawlerDir-ru_uk_stali_vyrazy_k_1.zip) |
+| Csv              |  .csv      | [Csv-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Csv-ru_uk_stali_vyrazy_k_1.zip) |
+| Dicformids       |  .mids     | [Dicformids-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dicformids-ru_uk_stali_vyrazy_k_1.zip) |
+| Dictfile         |  .df       | [Dictfile-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Dictfile-ru_uk_stali_vyrazy_k_1.zip) |
+| DictOrg          |  .index    | [DictOrg-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrg-ru_uk_stali_vyrazy_k_1.zip) |
+| DictOrgSource    |  .dtxt     | [DictOrgSource-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DictOrgSource-ru_uk_stali_vyrazy_k_1.zip) |
+| DiktJson         |  .json     | [DiktJson-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/DiktJson-ru_uk_stali_vyrazy_k_1.zip) |
+| Edlin            |  .edlin    | [Edlin-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Edlin-ru_uk_stali_vyrazy_k_1.zip) |
+| Epub2            |  .epub     | [Epub2-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Epub2-ru_uk_stali_vyrazy_k_1.zip) |
+| GettextPo        |  .po       | [GettextPo-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/GettextPo-ru_uk_stali_vyrazy_k_1.zip) |
+| HtmlDir          |  .hdir     | [HtmlDir-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/HtmlDir-ru_uk_stali_vyrazy_k_1.zip) |
+| Info             |  .info     | [Info-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Info-ru_uk_stali_vyrazy_k_1.zip) |
+| Json             |  .json     | [Json-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Json-ru_uk_stali_vyrazy_k_1.zip) |
+| Kobo             |  .kobo     | [Kobo-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Kobo-ru_uk_stali_vyrazy_k_1.zip) |
+| LingoesLDF       |  .ldf      | [LingoesLDF-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/LingoesLDF-ru_uk_stali_vyrazy_k_1.zip) |
+| Sql              |  .sql      | [Sql-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Sql-ru_uk_stali_vyrazy_k_1.zip) |
+| Stardict         |  .ifo      | [Stardict-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Stardict-ru_uk_stali_vyrazy_k_1.zip) |
+| StardictTextual  |  .xml      | [StardictTextual-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/StardictTextual-ru_uk_stali_vyrazy_k_1.zip) |
+| Tabfile          |  .txt      | [Tabfile-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Tabfile-ru_uk_stali_vyrazy_k_1.zip) |
+| Yomichan         |  .zip      | [Yomichan-ru_uk_stali_vyrazy_k_1.zip](https://github.com/bakustarver/ukr-dictionaries-list-opensource/releases/download/0.2/Yomichan-ru_uk_stali_vyrazy_k_1.zip) |
 ---------------------------------------------------------------------------------------
