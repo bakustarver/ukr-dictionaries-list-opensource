@@ -31,3 +31,4 @@
 ## 📚 Цікаві проекти
 - https://github.com/egorsmkv/speech-recognition-uk
 - https://github.com/Helsinki-NLP/UkrainianLT
+- https://github.com/neochief/ukrainian-typographic-layouts
