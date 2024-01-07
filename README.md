@@ -1,5 +1,5 @@
 Українська | [Русский](README_RU.md) | [English](README_EN.md) 
-# Українські офлайн словники у відкритих форматах
+# Українські офлайн словники у відкритих форматах 🇺🇦
 
 Список включає українські словники у відкритих форматах
 
@@ -26,3 +26,8 @@
 Наявні формати словників на поточний час:
 - [ABBYY Lingvo DSL](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/ABBYY.Lingvo.DSL.Ukr.zip)
 - [StarDict](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/Stardict.Ukr.zip)
+
+
+## 📚 Цікаві проекти
+https://github.com/egorsmkv/speech-recognition-uk
+https://github.com/Helsinki-NLP/UkrainianLT
