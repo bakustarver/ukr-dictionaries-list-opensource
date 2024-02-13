@@ -5,7 +5,7 @@
 
 Наявне скачування у 23 форматах:
 
-### Aard2Slob, ABBYY Lingvo DSL , AppleDict, CrawlerDir, Csv, Dicformids, Dictfile , DictOrg, DictOrgSource, DiktJson , Edlin, Epub2, GettextPo, HtmlDir, Info , Json , Kobo , LingoesLDF, Sql, Stardict, StardictTextual, Tabfile, Yomichan
+#### Aard2Slob, ABBYY Lingvo DSL , AppleDict, CrawlerDir, Csv, Dicformids, Dictfile , DictOrg, DictOrgSource, DiktJson , Edlin, Epub2, GettextPo, HtmlDir, Info , Json , Kobo , LingoesLDF, Sql, Stardict, StardictTextual, Tabfile, Yomichan
 
 Щоб завантажити натисніть папку з назвою словника
 
