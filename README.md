@@ -38,3 +38,5 @@
 - https://github.com/egorsmkv/speech-recognition-uk
 - https://github.com/Helsinki-NLP/UkrainianLT
 - https://github.com/neochief/ukrainian-typographic-layouts
+- https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?dir=/UKRAINIAN
+- [Як перекласти будь-яку книгу на українську](https://github.com/bakustarver/ukrebooktranslatorguide)
